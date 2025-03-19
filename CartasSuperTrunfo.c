@@ -36,8 +36,8 @@ int main(){
  float divisao2 = (float)pib / populacao;
 
  printf("País: %s\n", nome);
- printf("Área: %d\n", area);
  printf("Código do país: %d\n", codigo);
+ printf("Área: %d\n", area);
  printf("PIB: %d\n", pib);
  printf("População: %d\n", populacao);
  printf("Pontos turísticos: %d\n", turistico);
