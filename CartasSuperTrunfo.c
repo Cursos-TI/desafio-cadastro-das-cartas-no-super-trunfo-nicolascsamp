@@ -41,7 +41,7 @@ int main(){
  printf("PIB: %d\n", pib);
  printf("População: %d\n", populacao);
  printf("Pontos turísticos: %d\n", turistico);
- printf("População / Área: %.2f\n", divisao1);
+ printf("Densidade Populacional: %.2f\n", divisao1);
  printf("PIB per Capita: %.2f\n", divisao2);
 
  return 0;
